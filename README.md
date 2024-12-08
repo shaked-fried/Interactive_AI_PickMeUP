@@ -1,4 +1,4 @@
-# Interactive_AI_PickMeUP
+# Coordination system for carpooling
 You will need to install osmnx and radar api extensions to run the code
 important notes:
     1. The radar geofence object should be created each time with a new id, the relevant line is marked in the code
